@@ -1,4 +1,4 @@
-install pip install pynput
-run python keylogger.py
+install: pip install pynput
+run: python keylogger.py
 
-delete keylogger.txt if exist before run
+delete: keylogger.txt if exist before run
